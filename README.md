@@ -2,7 +2,7 @@
 
 **Nama:** LadyKimiel  
 **NIM:** 240401010122  
-**Kelas:** Informatika
+**Kelas:** IF401
 
 ## Deskripsi
 
