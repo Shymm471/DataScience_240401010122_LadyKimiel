@@ -1,6 +1,6 @@
 # Portofolio Pengantar Data Science
 
-**Nama:** LadyKimiel  
+**Nama:** Lady Kimiel  
 **NIM:** 240401010122  
 **Kelas:** IF401
 
