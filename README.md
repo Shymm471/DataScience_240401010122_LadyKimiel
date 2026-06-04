@@ -3,6 +3,7 @@
 **Nama:** Lady Kimiel  
 **NIM:** 240401010122  
 **Kelas:** IF401
+**Program Studi:** Teknik Informatika
 
 ## Deskripsi
 
